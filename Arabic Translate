@@ -1,5 +1,5 @@
 "ENABLED" = "تمكين";
-"REQUIRES_RESPRING" = "تمكين/ايقاف هذا الخيار يتطلب اعادة اطلاق الشاشة الرئيسية.";
+"REQUIRES_RESPRING" = "تمكين/تعطيل هذا الخيار يتطلب اعادة اطلاق الشاشة الرئيسية.";
 "APPHEADS_SETTINGS" = "إعدادات AppHeads.";
 "ENABLE_FOR_ALL_APPS" = "تمكين لكل البرامج";
 "ENABLED_APPS" = "البرامج المفعّلة";
